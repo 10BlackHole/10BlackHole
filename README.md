@@ -7,7 +7,7 @@
 
 <h1>I am 10BlackHole...</h1>
 <ul style='circle'>
-<li><h3>I have a degree in Physics from Universidad de Concepción ,Chile</h3></li>
+<li><h3>I have a degree in Physics from Universidad de Concepción, Chile</h3></li>
 <li><h3>My interests are Physics, Black Holes, QFT</h3></li>
 <li><h3>I am also interested in programming languages like Python, Julia, etc</h3></li>
 <li><h3>My hobbies are make notes on topics of my interest, customize my computer, listen music.</h3></li>
