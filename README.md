@@ -2,7 +2,9 @@
 
 **`Degree in Physics`**
 
-I have a degree in Physics from Universidad de Concepción, Chile. The notes I make are purely for personal study. Anyway, I share de codes un case someone finds them helpful. My interests include black holes, QFT, electrodynamics, quantum mechanics, among others.
+I have a degree in Physics from Universidad de Concepción, Chile. The notes I make are purely for personal study. Anyway, I share de codes un case someone finds them helpful. My interests include black holes, QFT, electrodynamics, quantum mechanics, among others. Some of the topics I have made notes on are:
+- [Electrodinámica](https://github.com/10blackhole/electrodinamica)
+- [Quantum Mechanics](https://github.com/10blackhole/quantum-mechanics)
 
 I like to learn different programming languages such Python, Julia, LaTeX, and others. Also. I'm a Vim lover. Everything I do I do from the terminal and everything i write I do it in Vim. All my workflow configuration can be found at [this repo](https://github.com/10blackhole/config)
 <br>
