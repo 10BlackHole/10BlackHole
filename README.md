@@ -1,9 +1,9 @@
 <h1>Hello!</h1>                                                  
-<b><i>With the power of The Potion of Lextozar</i><br>       
-<i>Made from the water of a holy bay</i><br>                
-<i>Graced with light from a burning star</i><br>
-<i>Strirred in a pot made of Olympian Clay; I wish</i><br>
-<i>That you may have a mighty great day!</i><br></b>      
+<!--<b><i>With the power of The Potion of Lextozar</i><br>       -->
+<!--<i>Made from the water of a holy bay</i><br>                -->
+<!--<i>Graced with light from a burning star</i><br>-->
+<!--<i>Strirred in a pot made of Olympian Clay; I wish</i><br>-->
+<!--<i>That you may have a mighty great day!</i><br></b>      -->
 
 <h1>I am 10BlackHole...</h1>
 <ul style='circle'>
