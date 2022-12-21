@@ -13,7 +13,7 @@ I like to learn different programming languages such Python, Julia, LaTeX, and o
 #
 
 ### Currently work
-I am currently working on the notes of [Geometry, Topology and Physics](https://github.com/nakahara) by Mikio Nakahara and learning at the same time
+I am currently working on the notes of [Geometry, Topology and Physics](https://github.com/10blackhole/nakahara) by Mikio Nakahara and learning at the same time
 
 ### 🔥  Languages and Tools
 
